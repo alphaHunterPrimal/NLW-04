@@ -1,6 +1,7 @@
 # Sobre o projeto
 Move.it foi uma api criada durante a quarta NLW, servindo como um meio de gerenciar o seu tempo com um contador regular que propõem "desafios" para se cumprir a cada X intervalos. Esses desafios tem como objetivo aliviar um pouco a mente e manter-se saudável enquanto se utiliza do computador, podendo ser coisas desde como fazer um alongamento até descansar um pouco as vistas. 
-
+## Preview
+![Move.it](https://github.com/alphaHunterPrimal/NLW-04/blob/main/public/NLW04.png)
 ## Linguagens utilizadas
 - Typescript e TSX
 - CSS
